@@ -1,0 +1,152 @@
+[
+    {
+        "Post ID": "10000",
+        "Username": "travel_bloggers",
+        "Platform": "Twitch",
+        "Timestamp": "2024-11-18 17:33:54",
+        "Content": "Just bought a new ZetaBook Air 13 from CompTech Store! Amazing performance and sleek design. Totally worth it! #techlife",
+        "Sentiment": "positive",
+        "Likes": 94,
+        "Comments": 28,
+        "Shares": 1,
+        "Tags": [
+            "AlphaBook",
+            "DeltaBook"
+        ]
+    },
+    {
+        "Post ID": "10001",
+        "Username": "mom_and_tech",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-19 17:33:54",
+        "Content": "Anyone else having issues with the AlphaBook Pro 15's screen? Flickers randomly, and the customer service is a nightmare.",
+        "Sentiment": "negative",
+        "Likes": 182,
+        "Comments": 5,
+        "Shares": 14,
+        "Tags": [
+            "OmegaBook",
+            "TravelTech"
+        ]
+    },
+    {
+        "Post ID": "10002",
+        "Username": "data_scientist42",
+        "Platform": "Instagram",
+        "Timestamp": "2024-11-20 17:33:54",
+        "Content": "Anyone else having issues with the AlphaBook Pro 15's screen? Flickers randomly, and the customer service is a nightmare.",
+        "Sentiment": "negative",
+        "Likes": 39,
+        "Comments": 8,
+        "Shares": 6,
+        "Tags": [
+            "frustrated",
+            "BetaBook"
+        ]
+    },
+    {
+        "Post ID": "10003",
+        "Username": "casual_shopper",
+        "Platform": "Twitter",
+        "Timestamp": "2024-11-21 17:33:54",
+        "Content": "The BetaBook Ultra 17 is okay for its price. Not great, not terrible. Does the job but nothing special.",
+        "Sentiment": "neutral",
+        "Likes": 30,
+        "Comments": 5,
+        "Shares": 0,
+        "Tags": [
+            "gamingPC",
+            "dataScience"
+        ]
+    },
+    {
+        "Post ID": "10004",
+        "Username": "nightowl_dev",
+        "Platform": "Facebook",
+        "Timestamp": "2024-11-22 17:33:54",
+        "Content": "Got a BetaBook Ultra 17 for the office. Great machine for productivity and multitasking. Highly recommended!",
+        "Sentiment": "positive",
+        "Likes": 135,
+        "Comments": 29,
+        "Shares": 14,
+        "Tags": [
+            "OmegaBook",
+            "AlphaBook"
+        ]
+    },
+    {
+        "Post ID": "10005",
+        "Username": "gadget_guru",
+        "Platform": "Twitch",
+        "Timestamp": "2024-11-23 17:33:54",
+        "Content": "Loving my new ZetaBook Air 13! Perfect for study and gaming. Thanks @CompTech for the student discount! \ud83d\ude0d",
+        "Sentiment": "positive",
+        "Likes": 143,
+        "Comments": 32,
+        "Shares": 4,
+        "Tags": [
+            "gamingPC",
+            "parentreview"
+        ]
+    },
+    {
+        "Post ID": "10006",
+        "Username": "travel_bloggers",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-24 17:33:54",
+        "Content": "The GammaBook 13 is decent but lacks innovation. Good for those on a budget.",
+        "Sentiment": "neutral",
+        "Likes": 104,
+        "Comments": 23,
+        "Shares": 18,
+        "Tags": [
+            "TravelTech",
+            "BetaBook"
+        ]
+    },
+    {
+        "Post ID": "10007",
+        "Username": "travel_bloggers",
+        "Platform": "Instagram",
+        "Timestamp": "2024-11-25 17:33:54",
+        "Content": "Just bought a new DeltaBook 14 from CompTech Store! Amazing performance and sleek design. Totally worth it! #techlife",
+        "Sentiment": "positive",
+        "Likes": 91,
+        "Comments": 31,
+        "Shares": 3,
+        "Tags": [
+            "disappointed",
+            "gamingPC"
+        ]
+    },
+    {
+        "Post ID": "10008",
+        "Username": "pc_gamer_pro",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-26 17:33:54",
+        "Content": "Anyone else having issues with the ZetaBook Air 13's screen? Flickers randomly, and the customer service is a nightmare.",
+        "Sentiment": "negative",
+        "Likes": 138,
+        "Comments": 5,
+        "Shares": 0,
+        "Tags": [
+            "gamingPC",
+            "DeltaBook"
+        ]
+    },
+    {
+        "Post ID": "10009",
+        "Username": "mom_and_tech",
+        "Platform": "Facebook",
+        "Timestamp": "2024-11-27 17:33:54",
+        "Content": "The DeltaBook 14 is okay for its price. Not great, not terrible. Does the job but nothing special.",
+        "Sentiment": "neutral",
+        "Likes": 75,
+        "Comments": 47,
+        "Shares": 14,
+        "Tags": [
+            "disappointed",
+            "gamingPC"
+        ]
+    }
+]

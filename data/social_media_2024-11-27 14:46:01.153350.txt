@@ -1,0 +1,11 @@
+Post ID,Username,Platform,Timestamp,Content,Sentiment,Likes,Comments,Shares,Tags
+10000,pc_gamer_pro,Twitter,2024-11-17 14:46:01,"Not impressed with the OmegaBook 15. Build quality is okay, but the specs are underwhelming for the price.",negative,243,6,14,"studentlife, DeltaBook"
+10001,pc_gamer_pro,Facebook,2024-11-18 14:46:01,"Anyone else having issues with the AlphaBook Pro 15's screen? Flickers randomly, and the customer service is a nightmare.",negative,104,6,6,"productivity, disappointed"
+10002,mom_and_tech,LinkedIn,2024-11-19 14:46:01,"The OmegaBook 15 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",negative,155,39,4,"techlife, frustrated"
+10003,data_scientist42,LinkedIn,2024-11-20 14:46:01,"The AlphaBook Pro 15 is okay for its price. Not great, not terrible. Does the job but nothing special.",neutral,215,27,1,"productivity, AlphaBook"
+10004,gadget_guru,LinkedIn,2024-11-21 14:46:01,"Just bought a new ZetaBook Air 13 from CompTech Store! Amazing performance and sleek design. Totally worth it! #techlife",positive,151,6,20,"frustrated, OmegaBook"
+10005,pc_gamer_pro,Twitter,2024-11-22 14:46:01,"Anyone else having issues with the AlphaBook Pro 15's screen? Flickers randomly, and the customer service is a nightmare.",negative,22,10,14,"dataScience, parentreview"
+10006,gadget_guru,Twitch,2024-11-23 14:46:01,"The OmegaBook 15 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",negative,181,28,3,"techlife, DeltaBook"
+10007,office_dad,Facebook,2024-11-24 14:46:01,"The OmegaBook 15 is okay for its price. Not great, not terrible. Does the job but nothing special.",neutral,294,39,3,"AlphaBook, gamingPC"
+10008,office_dad,LinkedIn,2024-11-25 14:46:01,"Bought the ZetaBook Air 13. It works fine for basic tasks, but don't expect too much.",neutral,179,27,17,"disappointed, DeltaBook"
+10009,mom_and_tech,LinkedIn,2024-11-26 14:46:01,"Not impressed with the ZetaBook Air 13. Build quality is okay, but the specs are underwhelming for the price.",negative,81,48,13,"OmegaBook, frustrated"

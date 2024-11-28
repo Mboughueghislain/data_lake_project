@@ -1,0 +1,11 @@
+Post ID,Username,Platform,Timestamp,Content,Sentiment,Likes,Comments,Shares,Tags
+10000,travel_bloggers,Twitch,2024-11-17 15:44:01,"Anyone else having issues with the AlphaBook Pro 15's screen? Flickers randomly, and the customer service is a nightmare.",negative,195,36,12,"AlphaBook, studentlife"
+10001,nightowl_dev,Twitter,2024-11-18 15:44:01,"Bought the ZetaBook Air 13. It works fine for basic tasks, but don't expect too much.",neutral,245,22,6,"gamingPC, OmegaBook"
+10002,gadget_guru,LinkedIn,2024-11-19 15:44:01,"Bought the BetaBook Ultra 17. It works fine for basic tasks, but don't expect too much.",neutral,260,47,7,"DeltaBook, dataScience"
+10003,office_dad,Facebook,2024-11-20 15:44:01,"Just bought a new AlphaBook Pro 15 from CompTech Store! Amazing performance and sleek design. Totally worth it! #techlife",positive,96,18,1,"OmegaBook, productivity"
+10004,travel_bloggers,Twitch,2024-11-21 15:44:01,"Got a GammaBook 13 for the office. Great machine for productivity and multitasking. Highly recommended!",positive,212,13,11,"BetaBook, parentreview"
+10005,nightowl_dev,Twitter,2024-11-22 15:44:01,"Anyone else having issues with the OmegaBook 15's screen? Flickers randomly, and the customer service is a nightmare.",negative,56,25,3,"GammaBook, AlphaBook"
+10006,mom_and_tech,Instagram,2024-11-23 15:44:01,"The AlphaBook Pro 15 is decent but lacks innovation. Good for those on a budget.",neutral,72,30,2,"techlife, GammaBook"
+10007,travel_bloggers,Twitter,2024-11-24 15:44:01,"Not impressed with the ZetaBook Air 13. Build quality is okay, but the specs are underwhelming for the price.",negative,247,15,12,"TravelTech, DeltaBook"
+10008,travel_bloggers,Instagram,2024-11-25 15:44:01,"Not impressed with the ZetaBook Air 13. Build quality is okay, but the specs are underwhelming for the price.",negative,92,23,11,"dataScience, techlife"
+10009,student_life21,Facebook,2024-11-26 15:44:01,"The AlphaBook Pro 15 is decent but lacks innovation. Good for those on a budget.",neutral,183,45,13,"AlphaBook, studentlife"

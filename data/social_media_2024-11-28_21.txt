@@ -1,0 +1,11 @@
+Post ID,Username,Platform,Timestamp,Content,Sentiment,Likes,Comments,Shares,Tags
+10000,student_life21,Twitch,2024-11-18 21:12:09,"Anyone else having issues with the AlphaBook Pro 15's screen? Flickers randomly, and the customer service is a nightmare.",negative,204,43,3,"DeltaBook, gamingPC"
+10001,data_scientist42,Facebook,2024-11-19 21:12:09,"The ZetaBook Air 13 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",negative,292,18,15,"gamingPC, BetaBook"
+10002,tech_lover89,Reddit,2024-11-20 21:12:09,"Bought the ZetaBook Air 13. It works fine for basic tasks, but don't expect too much.",neutral,233,11,14,"studentlife, OmegaBook"
+10003,data_scientist42,LinkedIn,2024-11-21 21:12:09,"Bought the AlphaBook Pro 15. It works fine for basic tasks, but don't expect too much.",neutral,74,11,4,"productivity, gamingPC"
+10004,pc_gamer_pro,Instagram,2024-11-22 21:12:09,"The OmegaBook 15 is okay for its price. Not great, not terrible. Does the job but nothing special.",neutral,122,10,7,"disappointed, BetaBook"
+10005,office_dad,Twitch,2024-11-23 21:12:09,"The ZetaBook Air 13 is decent but lacks innovation. Good for those on a budget.",neutral,81,35,15,"gamingPC, productivity"
+10006,data_scientist42,Twitter,2024-11-24 21:12:09,"Got a BetaBook Ultra 17 for the office. Great machine for productivity and multitasking. Highly recommended!",positive,135,20,6,"BetaBook, AlphaBook"
+10007,tech_lover89,Facebook,2024-11-25 21:12:09,"Just bought a new AlphaBook Pro 15 from CompTech Store! Amazing performance and sleek design. Totally worth it! #techlife",positive,254,35,13,"frustrated, gamingPC"
+10008,nightowl_dev,Twitter,2024-11-26 21:12:09,"Not impressed with the ZetaBook Air 13. Build quality is okay, but the specs are underwhelming for the price.",negative,258,7,14,"TravelTech, studentlife"
+10009,nightowl_dev,Reddit,2024-11-27 21:12:09,"Loving my new OmegaBook 15! Perfect for study and gaming. Thanks @CompTech for the student discount! 😍",positive,100,15,19,"disappointed, frustrated"

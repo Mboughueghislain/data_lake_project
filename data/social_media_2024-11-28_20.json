@@ -1,0 +1,152 @@
+[
+    {
+        "Post ID": "10000",
+        "Username": "data_scientist42",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-18 20:55:32",
+        "Content": "The DeltaBook 14 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",
+        "Sentiment": "negative",
+        "Likes": 181,
+        "Comments": 32,
+        "Shares": 2,
+        "Tags": [
+            "BetaBook",
+            "OmegaBook"
+        ]
+    },
+    {
+        "Post ID": "10001",
+        "Username": "data_scientist42",
+        "Platform": "Twitter",
+        "Timestamp": "2024-11-19 20:55:32",
+        "Content": "Bought the AlphaBook Pro 15. It works fine for basic tasks, but don't expect too much.",
+        "Sentiment": "neutral",
+        "Likes": 171,
+        "Comments": 44,
+        "Shares": 9,
+        "Tags": [
+            "techlife",
+            "parentreview"
+        ]
+    },
+    {
+        "Post ID": "10002",
+        "Username": "data_scientist42",
+        "Platform": "Twitter",
+        "Timestamp": "2024-11-20 20:55:32",
+        "Content": "Bought the ZetaBook Air 13. It works fine for basic tasks, but don't expect too much.",
+        "Sentiment": "neutral",
+        "Likes": 67,
+        "Comments": 13,
+        "Shares": 0,
+        "Tags": [
+            "AlphaBook",
+            "disappointed"
+        ]
+    },
+    {
+        "Post ID": "10003",
+        "Username": "mom_and_tech",
+        "Platform": "Facebook",
+        "Timestamp": "2024-11-21 20:55:32",
+        "Content": "The OmegaBook 15 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",
+        "Sentiment": "negative",
+        "Likes": 63,
+        "Comments": 25,
+        "Shares": 0,
+        "Tags": [
+            "AlphaBook",
+            "gamingPC"
+        ]
+    },
+    {
+        "Post ID": "10004",
+        "Username": "nightowl_dev",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-22 20:55:32",
+        "Content": "Bought the BetaBook Ultra 17. It works fine for basic tasks, but don't expect too much.",
+        "Sentiment": "neutral",
+        "Likes": 50,
+        "Comments": 44,
+        "Shares": 2,
+        "Tags": [
+            "BetaBook",
+            "parentreview"
+        ]
+    },
+    {
+        "Post ID": "10005",
+        "Username": "travel_bloggers",
+        "Platform": "LinkedIn",
+        "Timestamp": "2024-11-23 20:55:32",
+        "Content": "The OmegaBook 15 is decent but lacks innovation. Good for those on a budget.",
+        "Sentiment": "neutral",
+        "Likes": 288,
+        "Comments": 5,
+        "Shares": 11,
+        "Tags": [
+            "GammaBook",
+            "OmegaBook"
+        ]
+    },
+    {
+        "Post ID": "10006",
+        "Username": "casual_shopper",
+        "Platform": "Twitch",
+        "Timestamp": "2024-11-24 20:55:32",
+        "Content": "The GammaBook 13 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",
+        "Sentiment": "negative",
+        "Likes": 215,
+        "Comments": 7,
+        "Shares": 3,
+        "Tags": [
+            "techlife",
+            "GammaBook"
+        ]
+    },
+    {
+        "Post ID": "10007",
+        "Username": "mom_and_tech",
+        "Platform": "Facebook",
+        "Timestamp": "2024-11-25 20:55:32",
+        "Content": "Traveling light with my new AlphaBook Pro 15. Super portable and excellent battery life.",
+        "Sentiment": "positive",
+        "Likes": 272,
+        "Comments": 49,
+        "Shares": 7,
+        "Tags": [
+            "TravelTech",
+            "frustrated"
+        ]
+    },
+    {
+        "Post ID": "10008",
+        "Username": "tech_lover89",
+        "Platform": "Twitter",
+        "Timestamp": "2024-11-26 20:55:32",
+        "Content": "The AlphaBook Pro 15 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",
+        "Sentiment": "negative",
+        "Likes": 75,
+        "Comments": 31,
+        "Shares": 7,
+        "Tags": [
+            "AlphaBook",
+            "BetaBook"
+        ]
+    },
+    {
+        "Post ID": "10009",
+        "Username": "tech_lover89",
+        "Platform": "Facebook",
+        "Timestamp": "2024-11-27 20:55:32",
+        "Content": "The ZetaBook Air 13 is decent but lacks innovation. Good for those on a budget.",
+        "Sentiment": "neutral",
+        "Likes": 210,
+        "Comments": 14,
+        "Shares": 15,
+        "Tags": [
+            "DeltaBook",
+            "frustrated"
+        ]
+    }
+]

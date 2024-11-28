@@ -1,0 +1,152 @@
+[
+    {
+        "Post ID": "10000",
+        "Username": "pc_gamer_pro",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-18 17:53:07",
+        "Content": "Got a AlphaBook Pro 15 for the office. Great machine for productivity and multitasking. Highly recommended!",
+        "Sentiment": "positive",
+        "Likes": 96,
+        "Comments": 36,
+        "Shares": 7,
+        "Tags": [
+            "OmegaBook",
+            "parentreview"
+        ]
+    },
+    {
+        "Post ID": "10001",
+        "Username": "nightowl_dev",
+        "Platform": "Twitch",
+        "Timestamp": "2024-11-19 17:53:07",
+        "Content": "The DeltaBook 14 is okay for its price. Not great, not terrible. Does the job but nothing special.",
+        "Sentiment": "neutral",
+        "Likes": 291,
+        "Comments": 26,
+        "Shares": 13,
+        "Tags": [
+            "studentlife",
+            "frustrated"
+        ]
+    },
+    {
+        "Post ID": "10002",
+        "Username": "gadget_guru",
+        "Platform": "Instagram",
+        "Timestamp": "2024-11-20 17:53:07",
+        "Content": "The OmegaBook 15 is okay for its price. Not great, not terrible. Does the job but nothing special.",
+        "Sentiment": "neutral",
+        "Likes": 88,
+        "Comments": 43,
+        "Shares": 19,
+        "Tags": [
+            "OmegaBook",
+            "gamingPC"
+        ]
+    },
+    {
+        "Post ID": "10003",
+        "Username": "nightowl_dev",
+        "Platform": "Facebook",
+        "Timestamp": "2024-11-21 17:53:07",
+        "Content": "Not impressed with the OmegaBook 15. Build quality is okay, but the specs are underwhelming for the price.",
+        "Sentiment": "negative",
+        "Likes": 135,
+        "Comments": 25,
+        "Shares": 19,
+        "Tags": [
+            "AlphaBook",
+            "techlife"
+        ]
+    },
+    {
+        "Post ID": "10004",
+        "Username": "data_scientist42",
+        "Platform": "Twitter",
+        "Timestamp": "2024-11-22 17:53:07",
+        "Content": "The OmegaBook 15 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",
+        "Sentiment": "negative",
+        "Likes": 256,
+        "Comments": 28,
+        "Shares": 20,
+        "Tags": [
+            "AlphaBook",
+            "GammaBook"
+        ]
+    },
+    {
+        "Post ID": "10005",
+        "Username": "data_scientist42",
+        "Platform": "Twitch",
+        "Timestamp": "2024-11-23 17:53:07",
+        "Content": "Bought the BetaBook Ultra 17. It works fine for basic tasks, but don't expect too much.",
+        "Sentiment": "neutral",
+        "Likes": 63,
+        "Comments": 33,
+        "Shares": 11,
+        "Tags": [
+            "BetaBook",
+            "DeltaBook"
+        ]
+    },
+    {
+        "Post ID": "10006",
+        "Username": "student_life21",
+        "Platform": "Twitter",
+        "Timestamp": "2024-11-24 17:53:07",
+        "Content": "The BetaBook Ultra 17 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",
+        "Sentiment": "negative",
+        "Likes": 151,
+        "Comments": 39,
+        "Shares": 4,
+        "Tags": [
+            "OmegaBook",
+            "BetaBook"
+        ]
+    },
+    {
+        "Post ID": "10007",
+        "Username": "tech_lover89",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-25 17:53:07",
+        "Content": "Bought the AlphaBook Pro 15. It works fine for basic tasks, but don't expect too much.",
+        "Sentiment": "neutral",
+        "Likes": 64,
+        "Comments": 6,
+        "Shares": 4,
+        "Tags": [
+            "BetaBook",
+            "parentreview"
+        ]
+    },
+    {
+        "Post ID": "10008",
+        "Username": "mom_and_tech",
+        "Platform": "Reddit",
+        "Timestamp": "2024-11-26 17:53:07",
+        "Content": "The BetaBook Ultra 17 is decent but lacks innovation. Good for those on a budget.",
+        "Sentiment": "neutral",
+        "Likes": 217,
+        "Comments": 31,
+        "Shares": 14,
+        "Tags": [
+            "AlphaBook",
+            "parentreview"
+        ]
+    },
+    {
+        "Post ID": "10009",
+        "Username": "nightowl_dev",
+        "Platform": "Twitch",
+        "Timestamp": "2024-11-27 17:53:07",
+        "Content": "Loving my new OmegaBook 15! Perfect for study and gaming. Thanks @CompTech for the student discount! \ud83d\ude0d",
+        "Sentiment": "positive",
+        "Likes": 183,
+        "Comments": 46,
+        "Shares": 10,
+        "Tags": [
+            "disappointed",
+            "DeltaBook"
+        ]
+    }
+]

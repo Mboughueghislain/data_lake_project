@@ -1,0 +1,11 @@
+Post ID,Username,Platform,Timestamp,Content,Sentiment,Likes,Comments,Shares,Tags
+10000,pc_gamer_pro,Instagram,2024-11-18 17:48:59,"Bought the BetaBook Ultra 17. It works fine for basic tasks, but don't expect too much.",neutral,161,25,10,"OmegaBook, frustrated"
+10001,tech_lover89,LinkedIn,2024-11-19 17:48:59,"Bought the GammaBook 13. It works fine for basic tasks, but don't expect too much.",neutral,137,22,3,"OmegaBook, studentlife"
+10002,data_scientist42,Facebook,2024-11-20 17:48:59,"Not impressed with the OmegaBook 15. Build quality is okay, but the specs are underwhelming for the price.",negative,82,34,18,"techlife, gamingPC"
+10003,nightowl_dev,Facebook,2024-11-21 17:48:59,"Loving my new OmegaBook 15! Perfect for study and gaming. Thanks @CompTech for the student discount! 😍",positive,246,7,14,"OmegaBook, disappointed"
+10004,pc_gamer_pro,Twitch,2024-11-22 17:48:59,"Anyone else having issues with the ZetaBook Air 13's screen? Flickers randomly, and the customer service is a nightmare.",negative,166,25,8,"DeltaBook, TravelTech"
+10005,tech_lover89,Twitter,2024-11-23 17:48:59,"Bought the OmegaBook 15. It works fine for basic tasks, but don't expect too much.",neutral,24,39,15,"parentreview, dataScience"
+10006,travel_bloggers,LinkedIn,2024-11-24 17:48:59,"The BetaBook Ultra 17 is okay for its price. Not great, not terrible. Does the job but nothing special.",neutral,199,41,0,"frustrated, DeltaBook"
+10007,data_scientist42,Instagram,2024-11-25 17:48:59,"The BetaBook Ultra 17 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",negative,142,24,9,"AlphaBook, TravelTech"
+10008,mom_and_tech,LinkedIn,2024-11-26 17:48:59,"Not impressed with the ZetaBook Air 13. Build quality is okay, but the specs are underwhelming for the price.",negative,213,47,19,"BetaBook, dataScience"
+10009,office_dad,Facebook,2024-11-27 17:48:59,"Anyone else having issues with the DeltaBook 14's screen? Flickers randomly, and the customer service is a nightmare.",negative,154,18,16,"GammaBook, studentlife"

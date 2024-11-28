@@ -1,0 +1,11 @@
+Post ID,Username,Platform,Timestamp,Content,Sentiment,Likes,Comments,Shares,Tags
+10000,pc_gamer_pro,Reddit,2024-11-18 17:53:07,"Got a AlphaBook Pro 15 for the office. Great machine for productivity and multitasking. Highly recommended!",positive,96,36,7,"OmegaBook, parentreview"
+10001,nightowl_dev,Twitch,2024-11-19 17:53:07,"The DeltaBook 14 is okay for its price. Not great, not terrible. Does the job but nothing special.",neutral,291,26,13,"studentlife, frustrated"
+10002,gadget_guru,Instagram,2024-11-20 17:53:07,"The OmegaBook 15 is okay for its price. Not great, not terrible. Does the job but nothing special.",neutral,88,43,19,"OmegaBook, gamingPC"
+10003,nightowl_dev,Facebook,2024-11-21 17:53:07,"Not impressed with the OmegaBook 15. Build quality is okay, but the specs are underwhelming for the price.",negative,135,25,19,"AlphaBook, techlife"
+10004,data_scientist42,Twitter,2024-11-22 17:53:07,"The OmegaBook 15 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",negative,256,28,20,"AlphaBook, GammaBook"
+10005,data_scientist42,Twitch,2024-11-23 17:53:07,"Bought the BetaBook Ultra 17. It works fine for basic tasks, but don't expect too much.",neutral,63,33,11,"BetaBook, DeltaBook"
+10006,student_life21,Twitter,2024-11-24 17:53:07,"The BetaBook Ultra 17 is an overpriced piece of junk. Battery drains so fast, and the keyboard feels cheap. Avoid at all costs!",negative,151,39,4,"OmegaBook, BetaBook"
+10007,tech_lover89,Reddit,2024-11-25 17:53:07,"Bought the AlphaBook Pro 15. It works fine for basic tasks, but don't expect too much.",neutral,64,6,4,"BetaBook, parentreview"
+10008,mom_and_tech,Reddit,2024-11-26 17:53:07,"The BetaBook Ultra 17 is decent but lacks innovation. Good for those on a budget.",neutral,217,31,14,"AlphaBook, parentreview"
+10009,nightowl_dev,Twitch,2024-11-27 17:53:07,"Loving my new OmegaBook 15! Perfect for study and gaming. Thanks @CompTech for the student discount! 😍",positive,183,46,10,"disappointed, DeltaBook"

@@ -1,0 +1,11 @@
+Post ID,Username,Platform,Timestamp,Content,Sentiment,Likes,Comments,Shares,Tags
+10000,student_life21,Twitter,2024-11-18 18:16:08,"Got a GammaBook 13 for the office. Great machine for productivity and multitasking. Highly recommended!",positive,272,19,15,"dataScience, DeltaBook"
+10001,pc_gamer_pro,Twitter,2024-11-19 18:16:08,"The ZetaBook Air 13 is decent but lacks innovation. Good for those on a budget.",neutral,53,6,9,"parentreview, dataScience"
+10002,gadget_guru,Twitter,2024-11-20 18:16:08,"Not impressed with the OmegaBook 15. Build quality is okay, but the specs are underwhelming for the price.",negative,145,21,12,"gamingPC, disappointed"
+10003,office_dad,Twitter,2024-11-21 18:16:08,"Anyone else having issues with the ZetaBook Air 13's screen? Flickers randomly, and the customer service is a nightmare.",negative,132,30,4,"GammaBook, BetaBook"
+10004,office_dad,Reddit,2024-11-22 18:16:08,"Got a ZetaBook Air 13 for the office. Great machine for productivity and multitasking. Highly recommended!",positive,66,50,14,"TravelTech, dataScience"
+10005,pc_gamer_pro,Instagram,2024-11-23 18:16:08,"Anyone else having issues with the AlphaBook Pro 15's screen? Flickers randomly, and the customer service is a nightmare.",negative,88,50,2,"DeltaBook, dataScience"
+10006,data_scientist42,Twitch,2024-11-24 18:16:08,"Bought the AlphaBook Pro 15. It works fine for basic tasks, but don't expect too much.",neutral,222,17,1,"TravelTech, parentreview"
+10007,casual_shopper,Twitter,2024-11-25 18:16:08,"The OmegaBook 15 is okay for its price. Not great, not terrible. Does the job but nothing special.",neutral,28,23,5,"parentreview, OmegaBook"
+10008,data_scientist42,Twitch,2024-11-26 18:16:08,"Got a OmegaBook 15 for the office. Great machine for productivity and multitasking. Highly recommended!",positive,92,14,4,"gamingPC, studentlife"
+10009,tech_lover89,LinkedIn,2024-11-27 18:16:08,"Just bought a new DeltaBook 14 from CompTech Store! Amazing performance and sleek design. Totally worth it! #techlife",positive,127,12,6,"AlphaBook, productivity"
